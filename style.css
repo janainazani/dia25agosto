@@ -1,0 +1,32 @@
+h1 {color: red;
+}
+
+body {background-color: #00aa00
+}
+
+h2 {border-width: 20px;
+	border-style: solid;
+	border-color: #ff0000;
+	padding: 40px;
+	margin: 40px;
+}
+
+h3 {color: blue;
+}
+
+ul { display: inline-block;
+vertical-align: center;
+width: 40%;
+margin-right: 5%
+}
+
+#imagem-principal {width: 30%
+}
+
+.texto-um {background-color: blue;
+}
+
+.texto-dois{background-color: #66ff77;
+}
+.palestra {background-color: blue;
+}
